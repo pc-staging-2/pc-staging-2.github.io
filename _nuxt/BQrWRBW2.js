@@ -1,0 +1,1 @@
+import{B as a,E as s,P as t,tt as m}from"./ci5gUNoE.js";import{t as o}from"./DoUeQtae.js";import{t as r}from"./LGfbbyvW2.js";a();var e=t({name:"pump",__name:"index",setup:a=>(r("home"),(a,t)=>(m(),s(o,{variant:"page"})))});export{e as default};

@@ -1,0 +1,1 @@
+import{ds as s,is as r,os as t,ts as n}from"./CHUBoGLz.js";function a(a,e,i){if(!s(i))return!1;var o=typeof e;return!!("number"==o?n(i)&&t(e,i.length):"string"==o&&e in i)&&r(i[e],a)}export{a as t};
